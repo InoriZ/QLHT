@@ -75,12 +75,3 @@ https://www.figma.com/file/ifPAFQOS9ABrRCUbsjub77/hotel-management?node-id=64%3A
 **Client:** React, Typescript, Vite, React-router-dom, @amcharts/amcharts4, [TinyMCE](https://www.tiny.cloud/docs/tinymce/6/react-pm-bundle/)
 
 
-
-### Firestore structure
-![Overview](ht-management/src/assets/overview.png)
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
